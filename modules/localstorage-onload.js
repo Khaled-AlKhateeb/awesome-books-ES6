@@ -11,6 +11,6 @@ const localStorageOnLoad = () => {
       });
     }
   });
-}
+};
 
 export default localStorageOnLoad;

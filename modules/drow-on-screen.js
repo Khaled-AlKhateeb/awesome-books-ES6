@@ -20,6 +20,6 @@ const drawOnScreen = (obj) => {
   bookDiv.appendChild(bookTitle);
   bookDiv.appendChild(removeBtn);
   addBook.appendChild(bookDiv);
-}
+};
 
 export default drawOnScreen;

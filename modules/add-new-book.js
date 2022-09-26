@@ -20,6 +20,6 @@ const getInputValues = () => {
 
   window.localStorage.setItem('books', JSON.stringify(library.booksArr));
   drawOnScreen(bookEntries);
-}
+};
 
 export default getInputValues;
