@@ -1,7 +1,7 @@
 import library from './library.js';
 import drawOnScreen from './drow-on-screen.js';
 
-export default function localStorageOnLoad() {
+const localStorageOnLoad = () => {
   window.addEventListener('load', () => {
     const localStorageItem = window.localStorage.getItem('books');
     if (localStorageItem) {
@@ -12,3 +12,5 @@ export default function localStorageOnLoad() {
     }
   });
 }
+
+export default localStorageOnLoad;

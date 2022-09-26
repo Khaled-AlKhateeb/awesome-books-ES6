@@ -1,7 +1,7 @@
 import library from './library.js';
 import drawOnScreen from './drow-on-screen.js';
 
-function getInputValues() {
+const getInputValues = () => {
   const bookEntries = {
     title: null,
     author: null,

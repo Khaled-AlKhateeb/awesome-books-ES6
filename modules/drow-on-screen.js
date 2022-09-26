@@ -1,6 +1,6 @@
 /* eslint-disable prefer-template */
 
-export default function drawOnScreen(obj) {
+const drawOnScreen = (obj) => {
   const addBook = document.getElementById('book');
   const stringVal = obj.title;
   const idString = stringVal.replace(/\s/g, '');
@@ -21,3 +21,5 @@ export default function drawOnScreen(obj) {
   bookDiv.appendChild(removeBtn);
   addBook.appendChild(bookDiv);
 }
+
+export default drawOnScreen;
