@@ -1,11 +1,12 @@
-import { library } from "./library.js";
-import drawOnScreen from "./drow-on-screen.js";
+import { library } from './library.js';
+import drawOnScreen from './drow-on-screen.js';
 
-export function getInputValues() {
+function getInputValues() {
   const bookEntries = {
     title: null,
     author: null,
-  }
+  };
+
   const titleInput = document.getElementById('title');
   const authorInput = document.getElementById('author');
 
@@ -21,3 +22,5 @@ export function getInputValues() {
 
   drawOnScreen(bookEntries);
 }
+
+export default getInputValues
