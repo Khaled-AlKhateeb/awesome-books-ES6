@@ -38,7 +38,6 @@
       </header>
       <div id="clock" class="clock">
         <span id="clock-time">HH:MM:SS</span>
-        <span id="clock-ampm">PM</span>
       </div>
       <section id="listTab" class="list-tab">
         <h1>Awesome books</h1>
@@ -49,7 +48,7 @@
         <div class="input-container">
           <input class="input" id="title" type="text" placeholder="Title" />
           <input class="input" id="author" type="text" placeholder="Author" />
-          <button class="input-btn" onclick="addNewBook()" type="button">
+          <button class="input-btn" id="addBtn" type="button" onclick="getInputValues()">
             Add
           </button>
         </div>
