@@ -1,8 +1,7 @@
-import { BookLibrary } from './library.js';
+import library from './library.js';
 import drawOnScreen from './drow-on-screen.js';
 
 function getInputValues() {
-  const library = new BookLibrary();
   const bookEntries = {
     title: null,
     author: null,
@@ -20,7 +19,7 @@ function getInputValues() {
   authorInput.value = '';
 
   window.localStorage.setItem('books', JSON.stringify(library.booksArr));
-
+  
   drawOnScreen(bookEntries);
 }
 
