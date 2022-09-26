@@ -19,7 +19,6 @@ function getInputValues() {
   authorInput.value = '';
 
   window.localStorage.setItem('books', JSON.stringify(library.booksArr));
-  
   drawOnScreen(bookEntries);
 }
 
