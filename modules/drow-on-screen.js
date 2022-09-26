@@ -1,3 +1,5 @@
+/* eslint-disable prefer-template */
+
 export default function drawOnScreen(obj) {
   const addBook = document.getElementById('book');
   const stringVal = obj.title;

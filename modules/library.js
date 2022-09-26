@@ -10,6 +10,5 @@ class BookLibrary {
   }
 }
 
-const library = new BookLibrary();
-
-export default library;
+//export const library = new BookLibrary();
+export { BookLibrary };
