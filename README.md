@@ -1,62 +1,54 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Awesome Books
 
-> Description the project.
+awesome books ES6
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML/ CSS/ JavaScript
+- Linters/ ES6
 
 ## Live Demo (if available)
 
 [Live Demo Link](https://livedemo.com)
 
 
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
 ### Prerequisites
-
+HTML/ JavaScript
 ### Setup
-
-### Install
+To get a local copy up and running, follow these steps:
+1. **Click "Code" button**
+2. Select preferred clone method and [**copy Repo URL**](https://github.com/Khaled-AlKhateeb/awesome-books.git)
+3. **Open Git Bash** (or other terminal) and **enter "cd [Local Workstation Path]"**
+4. **Enter "git clone [Repo URL](https://github.com/Khaled-AlKhateeb/awesome-books.git)"**
+5. **Enter "git checkout -b [New-Branch-Name]"**
 
 ### Usage
+Digital Book Library.
 
 ### Run tests
+Linters.
 
 ### Deployment
-
+Mobile, desktop browsers
 
 
 ## Authors
 
-👤 **Author1**
+👤 **Khaled Al-Khateeb**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/Khaled-AlKhateeb)
+- Twitter: [@twitterhandle](https://twitter.com/KhaledA93751489)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/khaled-al-khateeb-3a1013247/)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/Khaled-AlKhateeb/awesome-books/issues).
 
 ## Show your support
 
