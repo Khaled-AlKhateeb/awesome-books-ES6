@@ -12,7 +12,7 @@ awesome books ES6
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://bookstore-iota-puce.vercel.app/)
+[Live Demo Link](https://khaled-alkhateeb.github.io/awesome-books-ES6/)
 
 
 ### Prerequisites
